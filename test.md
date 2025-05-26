@@ -1,25 +1,5 @@
 # Governance Proposal Validator
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
-
-- [Overview](#overview)
-- [Design](#design)
-- [Roles](#roles)
-- [Interface](#interface)
-  - [Public Functions](#public-functions)
-  - [Properties](#properties)
-  - [Structs](#structs)
-  - [Enums](#enums)
-  - [Events](#events)
-- [EAS Integration](#eas-integration)
-  - [Why EAS?](#why-eas)
-  - [Implementation Details](#implementation-details)
-- [Proposal uniqueness](#proposal-uniqueness)
-- [Invariants](#invariants)
-- [Security Considerations](#security-considerations)
-
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Overview
