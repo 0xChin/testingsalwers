@@ -10,8 +10,13 @@ soy chin
 
 ### partitura
 
+
 ```typescript
 mapping(uint256 => bytes32) idToBytes
 ```
 
+
 ultima prueba
+
+- cuack
+- cuacksito
