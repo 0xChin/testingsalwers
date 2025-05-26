@@ -15,7 +15,7 @@ need for manual gate keeping.
 
 The `ProposalValidator` manages the proposal lifecycle through three main functions:
 
-- `submitProposal`: Records new proposals
+- `submitProposal`: Records new proposals (it doesn’t actually)
 - `approveProposal`: Handles proposal approvals
 - `moveToVote`: Transitions approved proposals to voting phase
 
